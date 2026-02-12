@@ -43,8 +43,3 @@ class RandomizedSet:
 # param_3 = obj.getRandom()
 
 
-
-
-
-    def getRandom(self) -> int:
-        return random.choice(self.arr)
