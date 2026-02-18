@@ -3,11 +3,11 @@ class Solution:
         n=len(heights)
 
         for i in range(n):
-            min_index=i
-            for j in range(n-1,i,-1):
-                if heights[j]>heights[min_index]:
-                    heights[min_index],heights[j]=heights[j],heights[min_index]
-                    names[min_index],names[j]=names[j],names[min_index]
-
-        
+            finder=i-1
+            while finder >=0 and heights[finder]<heights[i]:
+                heights[i],heights[finder]=heights[finder],heights[i]
+                names[i],names[finder]=names[finder],names[i]
+                finder-=1
+                     
+                
         return names
