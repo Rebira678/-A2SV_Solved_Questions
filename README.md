@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0179-largest-number) |
@@ -15,6 +16,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
@@ -36,6 +38,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0969-pancake-sorting](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
