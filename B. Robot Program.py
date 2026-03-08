@@ -33,6 +33,7 @@ for _ in range(t):
     # we got first hit
     ans = 1
     remaining = k - first_hit
+    
 
     # -------- find cycle length starting from 0 --------
     cycle = -1
@@ -41,7 +42,7 @@ for _ in range(t):
             cycle = i + 1
             break
 
-    # if no cycle → no more hits
+    # if no cycle → no more hits so print the answer
     if cycle == -1:
         print(ans)
     else:
