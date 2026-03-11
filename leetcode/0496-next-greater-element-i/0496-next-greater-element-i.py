@@ -1,0 +1,24 @@
+class Solution:
+    def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
+        stack=[]
+        dic={}
+        result=[]
+        ans=[]
+
+        for i in nums2:
+            while stack and  i>stack[-1]:
+                dic[stack.pop()]=i
+            stack.append(i)
+           
+        
+        for i in nums1:
+            if i in dic:
+                ans.append(dic[i])
+            else:
+                ans.append(-1)
+            
+        return ans
+
+
+
+
