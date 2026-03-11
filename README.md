@@ -99,6 +99,7 @@
 | [0763-partition-labels](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [1598-crawler-log-folder](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
+| [2390-removing-stars-from-a-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [0739-daily-temperatures](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1598-crawler-log-folder](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
+| [2390-removing-stars-from-a-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
@@ -142,4 +144,8 @@
 | ------- |
 | [0739-daily-temperatures](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0907-sum-of-subarray-minimums) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
