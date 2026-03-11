@@ -11,6 +11,7 @@
 | [0229-majority-element-ii](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0456-132-pattern](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0456-132-pattern](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
@@ -123,6 +125,7 @@
 ## Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1598-crawler-log-folder](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
@@ -142,10 +145,15 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
