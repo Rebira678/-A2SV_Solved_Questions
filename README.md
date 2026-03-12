@@ -97,6 +97,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0179-largest-number) |
+| [0394-decode-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0763-partition-labels](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
@@ -126,6 +127,7 @@
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
@@ -158,4 +160,8 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0456-132-pattern) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
