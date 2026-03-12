@@ -100,6 +100,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0763-partition-labels](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
+| [0856-score-of-parentheses](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
 | [1598-crawler-log-folder](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
@@ -127,6 +128,7 @@
 | ------- |
 | [0456-132-pattern](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1598-crawler-log-folder](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
