@@ -24,6 +24,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1598-crawler-log-folder](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Two Pointers
 |  |
@@ -60,6 +61,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
 ## Greedy
 |  |
@@ -148,6 +150,7 @@
 ## Queue
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Data Stream
 |  |
@@ -162,6 +165,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Ordered Set
 |  |
@@ -173,6 +177,7 @@
 | [0050-powx-n](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
