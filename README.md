@@ -60,6 +60,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1922-count-good-numbers](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [0050-powx-n](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
