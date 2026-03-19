@@ -141,6 +141,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
@@ -190,4 +191,16 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
