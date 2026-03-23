@@ -66,6 +66,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Greedy
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Game Theory
 |  |
 | ------- |
