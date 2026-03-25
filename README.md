@@ -48,6 +48,7 @@
 | [0088-merge-sorted-array](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0389-find-the-difference) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0791-custom-sort-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0763-partition-labels) |
@@ -115,6 +117,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0179-largest-number) |
+| [0389-find-the-difference](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0763-partition-labels](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0763-partition-labels) |
@@ -211,4 +214,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
