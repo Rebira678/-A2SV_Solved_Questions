@@ -28,6 +28,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1598-crawler-log-folder](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -59,6 +60,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Math
 |  |
@@ -85,6 +87,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Game Theory
 |  |
@@ -158,6 +161,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 ## Stack
 |  |
 | ------- |
