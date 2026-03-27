@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0179-largest-number) |
@@ -134,6 +135,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
@@ -228,4 +230,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0098-validate-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
