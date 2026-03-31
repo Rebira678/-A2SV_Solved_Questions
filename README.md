@@ -71,6 +71,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0069-sqrtx) |
 | [0390-elimination-game](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0456-132-pattern](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
