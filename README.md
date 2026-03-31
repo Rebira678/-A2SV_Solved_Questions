@@ -127,6 +127,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
 | [0456-132-pattern](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0704-binary-search) |
@@ -272,4 +273,8 @@
 |  |
 | ------- |
 | [0077-combinations](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0077-combinations) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
