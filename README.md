@@ -38,6 +38,7 @@
 | [1598-crawler-log-folder](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2381-shifting-letters-ii](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Two Pointers
@@ -69,6 +70,7 @@
 | [1029-two-city-scheduling](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Math
 |  |
@@ -116,6 +118,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Counting
@@ -123,6 +126,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Binary Search
 |  |
