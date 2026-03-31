@@ -17,6 +17,7 @@
 | [0456-132-pattern](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
@@ -123,6 +124,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0456-132-pattern](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0704-binary-search) |
 ## String
 |  |
 | ------- |
