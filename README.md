@@ -27,6 +27,7 @@
 | [0969-pancake-sorting](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1029-two-city-scheduling](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -131,6 +132,7 @@
 | [0456-132-pattern](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0704-binary-search) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## String
 |  |
 | ------- |
