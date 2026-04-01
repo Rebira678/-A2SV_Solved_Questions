@@ -154,6 +154,7 @@
 | [0791-custom-sort-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0856-score-of-parentheses](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
 | [1598-crawler-log-folder](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2381-shifting-letters-ii](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
@@ -294,6 +295,7 @@
 |  |
 | ------- |
 | [0077-combinations](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0077-combinations) |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 ## Interactive
 |  |
 | ------- |
@@ -307,4 +309,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
+## Enumeration
+|  |
+| ------- |
+| [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 <!---LeetCode Topics End-->
