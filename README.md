@@ -158,6 +158,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -249,18 +250,21 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0100-same-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0100-same-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0100-same-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -293,4 +297,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0100-same-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
