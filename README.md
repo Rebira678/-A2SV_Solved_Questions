@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
@@ -277,6 +278,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [0389-find-the-difference](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0389-find-the-difference) |
 ## Binary Search Tree
 |  |
@@ -300,6 +302,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0077-combinations) |
+| [0090-subsets-ii](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 ## Interactive
 |  |
