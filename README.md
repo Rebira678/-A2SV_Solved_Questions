@@ -16,6 +16,7 @@
 | [0179-largest-number](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0238-product-of-array-except-self) |
+| [0275-h-index-ii](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0456-132-pattern](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0456-132-pattern) |
@@ -139,6 +140,7 @@
 | [0035-search-insert-position](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0275-h-index-ii](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
 | [0456-132-pattern](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
