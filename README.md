@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0046-permutations) |
@@ -149,6 +150,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0179-largest-number) |
@@ -323,4 +325,8 @@
 |  |
 | ------- |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
