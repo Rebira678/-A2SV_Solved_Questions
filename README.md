@@ -99,6 +99,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2235-add-two-integers](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2235-add-two-integers) |
 ## Greedy
 |  |
 | ------- |
