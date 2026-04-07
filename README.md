@@ -169,6 +169,7 @@
 | [0763-partition-labels](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0856-score-of-parentheses](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
+| [1108-defanging-an-ip-address](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1108-defanging-an-ip-address) |
 | [1598-crawler-log-folder](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2381-shifting-letters-ii](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
