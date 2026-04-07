@@ -46,6 +46,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1598-crawler-log-folder](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
+| [1672-richest-customer-wealth](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1672-richest-customer-wealth) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -362,4 +363,8 @@
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
