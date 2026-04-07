@@ -16,6 +16,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
@@ -143,6 +144,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0275-h-index-ii](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
