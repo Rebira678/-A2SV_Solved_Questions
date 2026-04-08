@@ -363,6 +363,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0328-odd-even-linked-list](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Matrix
 |  |
