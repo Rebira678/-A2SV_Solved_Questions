@@ -26,6 +26,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0456-132-pattern](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0560-subarray-sum-equals-k](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0704-binary-search) |
@@ -129,6 +130,7 @@
 | [0229-majority-element-ii](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0491-non-decreasing-subsequences](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0560-subarray-sum-equals-k](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
@@ -297,6 +299,7 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [0389-find-the-difference](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0389-find-the-difference) |
+| [0491-non-decreasing-subsequences](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -324,6 +327,7 @@
 | [0046-permutations](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 ## Interactive
 |  |
