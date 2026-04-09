@@ -27,6 +27,7 @@
 | [0456-132-pattern](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0860-lemonade-change) |
@@ -106,6 +107,7 @@
 | [0011-container-with-most-water](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0605-can-place-flowers](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0605-can-place-flowers) |
 | [0763-partition-labels](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
