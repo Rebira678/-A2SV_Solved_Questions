@@ -23,6 +23,7 @@
 | [0238-product-of-array-except-self](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0238-product-of-array-except-self) |
 | [0275-h-index-ii](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0456-132-pattern](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
@@ -76,6 +77,7 @@
 | [0179-largest-number](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0791-custom-sort-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
@@ -130,6 +132,7 @@
 | [0229-majority-element-ii](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0560-subarray-sum-equals-k](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0763-partition-labels) |
