@@ -225,6 +225,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1598-crawler-log-folder](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -246,6 +247,7 @@
 | [0456-132-pattern](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -266,6 +268,7 @@
 | [0509-fibonacci-number](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -371,6 +374,7 @@
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Matrix
 |  |
 | ------- |
