@@ -32,6 +32,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0560-subarray-sum-equals-k](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0605-can-place-flowers) |
+| [0645-set-mismatch](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0860-lemonade-change) |
@@ -82,6 +83,7 @@
 | [0389-find-the-difference](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0645-set-mismatch](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0791-custom-sort-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0912-sort-an-array) |
@@ -138,6 +140,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0560-subarray-sum-equals-k](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 | [0763-partition-labels](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
@@ -310,6 +313,7 @@
 | [0090-subsets-ii](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [0389-find-the-difference](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0389-find-the-difference) |
 | [0491-non-decreasing-subsequences](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
+| [0645-set-mismatch](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
 ## Binary Search Tree
 |  |
 | ------- |
