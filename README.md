@@ -34,6 +34,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
+| [0690-employee-importance](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0704-binary-search](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0860-lemonade-change) |
@@ -143,6 +144,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0491-non-decreasing-subsequences) |
 | [0560-subarray-sum-equals-k](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0645-set-mismatch) |
+| [0690-employee-importance](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0763-partition-labels](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
@@ -293,6 +295,7 @@
 | [0100-same-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
+| [0690-employee-importance](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -304,6 +307,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
+| [0690-employee-importance](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -362,6 +366,7 @@
 | [0207-course-schedule](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0463-island-perimeter) |
+| [0690-employee-importance](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 ## Hash Function
 |  |
 | ------- |
