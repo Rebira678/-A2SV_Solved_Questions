@@ -59,6 +59,7 @@
 | [1672-richest-customer-wealth](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1672-richest-customer-wealth) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2381-shifting-letters-ii](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
@@ -155,6 +156,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
@@ -163,6 +165,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Binary Search
