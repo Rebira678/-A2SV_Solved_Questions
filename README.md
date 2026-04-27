@@ -302,6 +302,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0690-employee-importance](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0690-employee-importance) |
@@ -324,6 +325,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 ## Bit Manipulation
@@ -372,6 +374,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0207-course-schedule) |
