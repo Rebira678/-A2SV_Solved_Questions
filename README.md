@@ -309,6 +309,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0690-employee-importance](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -322,6 +323,7 @@
 | [0463-island-perimeter](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0690-employee-importance](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0690-employee-importance) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -332,6 +334,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
