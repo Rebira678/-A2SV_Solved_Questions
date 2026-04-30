@@ -41,6 +41,7 @@
 | [0739-daily-temperatures](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
@@ -153,6 +154,7 @@
 | [0690-employee-importance](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0763-partition-labels](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -306,6 +308,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0690-employee-importance](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0690-employee-importance) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -328,6 +331,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -344,6 +348,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
