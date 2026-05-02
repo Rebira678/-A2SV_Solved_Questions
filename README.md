@@ -324,6 +324,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0690-employee-importance](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -389,6 +390,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0463-island-perimeter) |
 | [0690-employee-importance](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0690-employee-importance) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Hash Function
 |  |
 | ------- |
@@ -438,6 +440,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0207-course-schedule) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -446,4 +449,5 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0130-surrounded-regions) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
