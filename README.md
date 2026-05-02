@@ -306,6 +306,7 @@
 | [0100-same-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0690-employee-importance](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -321,6 +322,7 @@
 | [0207-course-schedule](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0463-island-perimeter) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0690-employee-importance](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -389,6 +391,7 @@
 | [0207-course-schedule](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0463-island-perimeter) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0690-employee-importance](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Hash Function
