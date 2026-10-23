@@ -3,14 +3,13 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        place_h=0
-        seeker=0
+        left =0
+        right=0
 
-        for _ in range(len(nums)):
-            if nums[seeker]!=0:
-                nums[place_h],nums[seeker]=nums[seeker],nums[place_h]
-                seeker+=1
-                place_h+=1
+        while right<len(nums):
+            if nums[right]!= 0:
+                nums[left],nums[right]=nums[right],nums[left]
+                right+=1
+                left+=1
             else:
-                seeker+=1
-            
+                right+=1
