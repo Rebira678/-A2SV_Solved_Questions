@@ -194,6 +194,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0389-find-the-difference) |
@@ -244,6 +245,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0394-decode-string) |
@@ -456,4 +458,8 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0130-surrounded-regions) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
