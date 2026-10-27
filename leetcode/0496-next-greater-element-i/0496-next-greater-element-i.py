@@ -6,7 +6,7 @@ class Solution:
         ans=[]
 
         for i in nums2:
-            while stack and  i>stack[-1]:
+            while stack and  i > stack[-1]:
                 dic[stack.pop()]=i
             stack.append(i)
            
