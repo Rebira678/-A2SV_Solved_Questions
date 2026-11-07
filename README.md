@@ -466,4 +466,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Rebira678/-A2SV_Solved_Questions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
