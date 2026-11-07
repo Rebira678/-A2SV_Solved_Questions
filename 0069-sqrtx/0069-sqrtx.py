@@ -9,7 +9,8 @@ class Solution:
 
             if mid * mid == x:
                 return mid
-            elif mid * mid > x:
+            
+            if mid * mid > x:
                 right=mid-1
             else:
                 ans=mid
